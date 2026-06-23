@@ -1,6 +1,6 @@
 # Excel Data Analysis Portfolio
 
-My first Excel Data Analysis Portfolio showcasing practical projects in formulas, reporting, pivot tables, charts, and business data analysis.
+This repository showcases a collection of Microsoft Excel projects developed to strengthen practical skills in data analysis, reporting, and business decision-making. The projects demonstrate the application of Excel functions, data transformation techniques, visualization methods, and analytical reporting practices.
 
 ## Skills Demonstrated
 
@@ -15,6 +15,10 @@ My first Excel Data Analysis Portfolio showcasing practical projects in formulas
 * Data Visualization
 * Business Reporting
 * Loan Interest Calculator
+
+## Project Objective
+
+To develop practical Excel skills through hands-on projects involving data analysis, reporting, visualization, and business-related problem solving.
 
 ## Project Screenshots
 
@@ -58,4 +62,4 @@ My first Excel Data Analysis Portfolio showcasing practical projects in formulas
 
 Kesara Lakpriya
 
-Aspiring Data Analyst
+Aspiring Data Analyst | Excel | SQL (Learning) | Power BI (Learning)
