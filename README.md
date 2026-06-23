@@ -20,11 +20,11 @@ My first Excel Data Analysis Portfolio showcasing practical projects in formulas
 
 ### Screenshot 1
 
-![Screenshot 1](PNG01.PNG)
+![Screenshot 1](png01.PNG)
 
 ### Screenshot 2
 
-![Screenshot 2](pngG02.PNG)
+![Screenshot 2](png02.PNG)
 
 ### Screenshot 3
 
